@@ -32,4 +32,12 @@ Com o DocNest, a criação e manutenção de documentação para projetos de sof
 
 ---
 
-Espero que essa descrição detalhada ajude a transmitir a ideia e o funcionamento do projeto "DocNest" de forma clara e envolvente!
+| STACK     | Descrição                                                  |
+|----------------|------------------------------------------------------------|
+| JavaScript     | Linguagem de programação principal do projeto               |
+| Next.js        | Framework de React para construção de interfaces de usuário |
+| Tauri          | Ferramenta para criação de aplicativos desktop              |
+| Esprima        | Biblioteca para análise de código JavaScript                |
+| fs (Node.js)   | Módulo para operações de sistema de arquivos               |
+| path (Node.js) | Módulo para manipulação de caminhos de arquivos            |
+
